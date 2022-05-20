@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajeev.
-- 👀 I’m interested in Designing with codes
+- 👀 I’m interested in UX/UX designing
 - 🌱 I’m currently learning M E A N stack
 - 💞️ I’m looking to collaborate on Fullstack
 - 📫 How to reach me rajeevc5260@gmail.com or https://www.linkedin.com/in/rajeev-c-596a59223/
