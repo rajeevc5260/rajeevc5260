@@ -15,10 +15,10 @@ I’m a passionate developer and designer, blending **UI/UX** with modern web te
 
 ## 🌟 What I'm Up To
 - 🌱 **Currently Learning:**  
-  Exploring the potential of **MEAN Stack** and enhancing my backend skills.
+  Exploring the world of **Generative AI** and mastering API integration to build intelligent, creative, and interactive applications.
   
 - 💻 **Open to Collaborations:**  
-  Looking for exciting opportunities in **Fullstack Development** and innovative **UI/UX** projects.
+  Looking for exciting opportunities in **Fullstack Development**, **Generative AI Projects**, and innovative **UI/UX** design.
 
 ---
 
@@ -34,7 +34,7 @@ I’m a passionate developer and designer, blending **UI/UX** with modern web te
 ---
 
 ### 🌟 Fun Fact:
-When I’m not coding, I’m probably sketching new design ideas or learning about the latest tech trends. Let's innovate together!
+When I’m not coding, I’m exploring the capabilities of AI or sketching new design ideas. Let's innovate together!
 
 
 <!---
